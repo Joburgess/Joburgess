@@ -17,7 +17,6 @@ public class AddFilenameExtension {
 			}
 		}else{
 			System.out.println("需要修改的文件所在的目录有问题！");
-			System.out.println();
 		}
 		
 		return false;
